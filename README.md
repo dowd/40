@@ -1,6 +1,4 @@
----
-Tags: #list #40
----
+# 40 Challenges for my 40th year!
 
 - [ ] Ultra marathon
 - [ ] Tattoo
